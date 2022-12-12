@@ -17,9 +17,9 @@ else:
 os.system('pip install -U schbot')
 os.system('clear')
 
-import schbot
+import SHINFNBOTS
 
-client = schbot.PartyBot(
+client = sSHINFNBOTS.PartyBot(
   device_id=env_vars['DEVICE_ID'],
   account_id=env_vars['ACCOUNT_ID'],
   secret=env_vars['SECRET']
