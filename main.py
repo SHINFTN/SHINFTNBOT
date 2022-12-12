@@ -14,7 +14,7 @@ else:
   print("error device in the file")
   sys.exit()
 
-os.system('pip install -U schbot')
+os.system('pip install -U SHINFNBOTS')
 os.system('clear')
 
 import SHINFNBOTS
