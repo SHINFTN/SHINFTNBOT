@@ -19,7 +19,7 @@ os.system('clear')
 
 import SHINFNBOTS
 
-client = sSHINFNBOTS.PartyBot(
+client = SHINFNBOTS.PartyBot(
   device_id=env_vars['DEVICE_ID'],
   account_id=env_vars['ACCOUNT_ID'],
   secret=env_vars['SECRET']
